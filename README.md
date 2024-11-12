@@ -41,3 +41,7 @@ This project seamlessly integrates with Bootstrap. Ensure you have Bootstrap's C
 4.  Commit your changes with clear commit messages.
 5.  Push your branch to your forked repository.
 6.  Create a pull request to the main repository.   
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
