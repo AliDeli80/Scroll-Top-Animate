@@ -1,4 +1,4 @@
-## Project Title: 
+## Project Title
 
 Scroll-Top-Animate
 
@@ -8,14 +8,9 @@ Scroll-Top-Animate
 
 A simple, yet effective JavaScript and Bootstrap-powered scroll-to-top animation.
 
-<br>
-
 ## Preview
 
 https://htmlpreview.github.io/?https://github.com/AliDeli80/Scroll-Top-Animate/blob/master/preloader-scrolltop/index.html
-
-<br>
-
 
 ## Getting Started
 
@@ -29,7 +24,6 @@ https://htmlpreview.github.io/?https://github.com/AliDeli80/Scroll-Top-Animate/b
 1. Scroll Detection: The script monitors the user's scrolling behavior.
 2. Button Visibility: A button is dynamically shown or hidden based on the scroll position.
 3. Smooth Scrolling: When the button is clicked, the page smoothly scrolls to the top.
-
 
 ## Customization
 
